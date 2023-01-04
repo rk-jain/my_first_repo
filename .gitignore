@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+# git-ignore experiments
+# - ignore single file
+art/image.txt
+
+# - ignore entire folder
+animations/
